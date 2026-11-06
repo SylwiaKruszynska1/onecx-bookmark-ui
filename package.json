@@ -39,7 +39,6 @@
     "reportPath": "reports"
   },
   "dependencies": {
-    "@angular-architects/module-federation": "^19.0.3",
     "@angular/animations": "^19.2.25",
     "@angular/cdk": "^19.2.19",
     "@angular/common": "^19.2.25",
